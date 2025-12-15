@@ -76,7 +76,7 @@ All gameplay logic, rendering, and audio analysis are handled natively within Su
 1. Install **SuperCollider** (version 3.12 or later recommended). To the download website: https://supercollider.github.io/downloads.html
 2. Ensure your microphone is enabled and accessible by SuperCollider.
 3. Paste the full game code into the SuperCollider editor.
-4. Evaluate the entire code block.
+4. Evaluate the entire code block. **(To evaluate in SuperCollider, Ctrl+A the entire block and press Shift+Enter.)**
 5. Shout to fly — survive as long as you can.
 
 ---

@@ -1,6 +1,6 @@
 # Grid-Singer-A-SuperCollider-based-video-game
 
-Grid Singer is a game inspired by *Jetpack Joyride*, but where you shout into the microphone instead of holding the screen for character levitation. The louder you shout, the faster you ascend.
+Grid Singer is a crude video game / SuperCollider project inspired by *Jetpack Joyride*, but where you shout into the microphone instead of holding the screen for character levitation. The louder you shout, the faster you ascend.
 
 ## Rules
 
